@@ -1,0 +1,8 @@
+C:\Users\ישי\Documents\GITHUB\Mego\C#\ex 020524\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ישי\Documents\GITHUB\Mego\C#\ex 020524\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ישי\Documents\GITHUB\Mego\C#\ex 020524\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ישי\Documents\GITHUB\Mego\C#\ex 020524\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ישי\Documents\GITHUB\Mego\C#\ex 020524\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ישי\Documents\GITHUB\Mego\C#\ex 020524\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ישי\Documents\GITHUB\Mego\C#\ex 020524\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ישי\Documents\GITHUB\Mego\C#\ex 020524\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
